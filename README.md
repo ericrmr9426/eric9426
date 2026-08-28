@@ -1,8 +1,9 @@
-# Olá, eu sou Eric!
+# Olá, eu sou Eric Rebelo!
 - Estudante de Desenvolvimento de Sistemas
-- Interesse especial em **projetos web** e **UX**
-- Preparando-se para o mercado de tecnologia
-- Facilidade com prompts :robot:
-- Contato: eric1994919941994@gmail.com
-[!(https://skillicons.dev/icons?i=py,html,css)](https://skillicons.dev)
-[!(https://skillicons.dev/icons?i=au,ps)](https://skillicons.dev)
+- :iphone: Interesse especial em **projetos web** e **UX** 
+- :computer: Preparando-se para o mercado de tecnologia 
+- :robot: Facilidade com prompts
+- English B2/C1
+- Portuguese Native
+## Meu contato
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:eric199419941994@gmail.com) 
