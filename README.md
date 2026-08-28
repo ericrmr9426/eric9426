@@ -1,5 +1,5 @@
 # Olá, eu sou Eric!
 - Estudante de Desenvolvimento de Sistemas
-- Focado em Python, HTML e CSS
+- Interesse especial em **projetos web** e **desenvolvimento front-end**
 - Preparando-se para o mercado de tecnologia
 - Contato: em breve.
